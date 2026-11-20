@@ -12,7 +12,7 @@ Aplikacja do nauki przepisów w formie testów jednokrotnego wyboru. Każde pyta
 | Pracownicy samorządowi | 13 | 43 |
 | Kodeks postępowania administracyjnego | 46 | 330 |
 
-Cztery nowe zestawy opierają się na wersjach aktów dostępnych w sekcji „Nauka”. Zestaw pytań z KPA pochodzi z poprzedniej wersji aplikacji. Sekcja „Nauka” zawiera pięć plików PDF oraz infografiki dotyczące KPA, usług hotelarskich, najmu krótkoterminowego i samorządu gminnego.
+Cztery nowe zestawy opierają się na wersjach aktów dostępnych w sekcji „Nauka”. Zestaw pytań z KPA pochodzi z poprzedniej wersji aplikacji. Sekcja „Nauka” zawiera pięć plików PDF oraz infografiki dotyczące KPA, usług hotelarskich, najmu krótkoterminowego, samorządu gminnego i pracowników samorządowych.
 
 Postęp i rozpoczęte sesje są zapisywane lokalnie w przeglądarce. Strzałki pozwalają pominąć pytanie i wrócić do niego później. Pytanie, na które udzielono poprawnej odpowiedzi w dwóch kolejnych ukończonych sesjach, wypada z puli. Można też usunąć je ręcznie. Przycisk „Przywróć wszystkie pytania” resetuje postęp nauki i niedokończone sesje. W teście dostępny jest odczyt głosowy, jeśli przeglądarka go obsługuje.
 

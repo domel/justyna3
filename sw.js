@@ -1,7 +1,7 @@
 "use strict";
 
 const CACHE_PREFIX = "justyna3-testy-z-ustaw-";
-const CACHE_NAME = `${CACHE_PREFIX}v1`;
+const CACHE_NAME = `${CACHE_PREFIX}v2`;
 const APP_FILES = [
   "./",
   "./index.html",
@@ -25,6 +25,7 @@ const APP_FILES = [
   "./materialy-do-nauki/Kodeks-postępowania.png",
   "./materialy-do-nauki/Najem_krótkoterminowy_w_UE.png",
   "./materialy-do-nauki/Samorząd_Gminny.png",
+  "./materialy-do-nauki/Ustawa_o_pracownikach_samorządowych.png",
   "./materialy-do-nauki/Usługi_hotelarskie_w_Polsce.png",
   "./materialy-do-nauki/kpo-praktyka.png",
   "./materialy-do-nauki/miniatury/kpa.png",

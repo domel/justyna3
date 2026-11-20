@@ -38,6 +38,7 @@
     { id: "uslugi-hotelarskie-plansza", title: "Usługi hotelarskie w Polsce", file: "materialy-do-nauki/Usługi_hotelarskie_w_Polsce.png" },
     { id: "najem-krotkoterminowy-plansza", title: "Najem krótkoterminowy w UE", file: "materialy-do-nauki/Najem_krótkoterminowy_w_UE.png" },
     { id: "samorzad-gminny-plansza", title: "Samorząd gminny", file: "materialy-do-nauki/Samorząd_Gminny.png" },
+    { id: "pracownicy-samorzadowi-plansza", title: "Pracownicy samorządowi", file: "materialy-do-nauki/Ustawa_o_pracownikach_samorządowych.png" },
     { id: "kodeks-postepowania", title: "Kodeks postępowania administracyjnego", file: "materialy-do-nauki/Kodeks postępowania.png" },
     { id: "kodeks-postepowania-plansza", title: "Kodeks postępowania administracyjnego – plansza", file: "materialy-do-nauki/Kodeks-postępowania.png" },
     { id: "kpa-definicje", title: "KPA – definicje i pojęcia", file: "materialy-do-nauki/KPA-definicje.png" },
