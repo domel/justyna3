@@ -1,7 +1,7 @@
 "use strict";
 
 const CACHE_PREFIX = "justyna3-testy-z-ustaw-";
-const CACHE_NAME = `${CACHE_PREFIX}v2`;
+const CACHE_NAME = `${CACHE_PREFIX}v3`;
 const APP_FILES = [
   "./",
   "./index.html",
@@ -37,7 +37,8 @@ const APP_FILES = [
   "./data/pytania_najem_krotkoterminowy.csv",
   "./data/pytania_samorzad_gminny.csv",
   "./data/pytania_pracownicy_samorzadowi.csv",
-  "./data/pytania_Kodeks_postepowania_administracyjnego_KPA.csv"
+  "./data/pytania_Kodeks_postepowania_administracyjnego_KPA.csv",
+  "./data/pytania_nabor_43_26.csv"
 ];
 
 self.addEventListener("install", event => {

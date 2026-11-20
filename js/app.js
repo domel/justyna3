@@ -26,6 +26,11 @@
       title: "Kodeks postępowania administracyjnego",
       shortTitle: "KPA",
       file: "data/pytania_Kodeks_postepowania_administracyjnego_KPA.csv"
+    },
+    "nabor-43-26": {
+      title: "Nabór nr 43/26 na stanowisko podinspektora w Białymstoku",
+      shortTitle: "Nabór 43/26 · Podinspektor",
+      file: "data/pytania_nabor_43_26.csv"
     }
   });
 

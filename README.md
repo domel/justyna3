@@ -11,6 +11,9 @@ Aplikacja do nauki przepisów w formie testów jednokrotnego wyboru. Każde pyta
 | Samorząd gminny | 37 | 123 |
 | Pracownicy samorządowi | 13 | 43 |
 | Kodeks postępowania administracyjnego | 46 | 330 |
+| Nabór nr 43/26 na stanowisko podinspektora | | 50 |
+
+Zestaw 06 obejmuje zadania podinspektora w Departamencie Kultury, Promocji i Sportu Urzędu Miejskiego w Białymstoku oraz stosowanie pięciu aktów wskazanych w ogłoszeniu. [Ogłoszenie nr 43/26 w BIP](https://www.bip.bialystok.pl/postepowania/nabor_na_stanowiska_urzednicze/podinspektor-w-departamencie-kultury-promocji-i-sportu-7.html)
 
 Cztery nowe zestawy opierają się na wersjach aktów dostępnych w sekcji „Nauka”. Zestaw pytań z KPA pochodzi z poprzedniej wersji aplikacji. Sekcja „Nauka” zawiera pięć plików PDF oraz infografiki dotyczące KPA, usług hotelarskich, najmu krótkoterminowego, samorządu gminnego i pracowników samorządowych.
 
