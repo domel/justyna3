@@ -15,7 +15,7 @@ Aplikacja do nauki przepisów w formie testów jednokrotnego wyboru. Każde pyta
 
 Zestaw 06 obejmuje zadania podinspektora w Departamencie Kultury, Promocji i Sportu Urzędu Miejskiego w Białymstoku oraz stosowanie pięciu aktów wskazanych w ogłoszeniu. [Ogłoszenie nr 43/26 w BIP](https://www.bip.bialystok.pl/postepowania/nabor_na_stanowiska_urzednicze/podinspektor-w-departamencie-kultury-promocji-i-sportu-7.html)
 
-Cztery nowe zestawy opierają się na wersjach aktów dostępnych w sekcji „Nauka”. Zestaw pytań z KPA pochodzi z poprzedniej wersji aplikacji. Sekcja „Nauka” zawiera pięć plików PDF oraz infografiki dotyczące KPA, usług hotelarskich, najmu krótkoterminowego, samorządu gminnego i pracowników samorządowych.
+Cztery nowe zestawy opierają się na wersjach aktów dostępnych w sekcji „Nauka”. Zestaw pytań z KPA pochodzi z poprzedniej wersji aplikacji. Sekcja „Nauka” zawiera teksty pięciu aktów prawnych, streszczenie ustawy o usługach hotelarskich oraz infografiki dotyczące wszystkich pięciu aktów.
 
 Postęp i rozpoczęte sesje są zapisywane lokalnie w przeglądarce. Strzałki pozwalają pominąć pytanie i wrócić do niego później. Pytanie, na które udzielono poprawnej odpowiedzi w dwóch kolejnych ukończonych sesjach, wypada z puli. Można też usunąć je ręcznie. Przycisk „Przywróć wszystkie pytania” resetuje postęp nauki i niedokończone sesje. W teście dostępny jest odczyt głosowy, jeśli przeglądarka go obsługuje.
 

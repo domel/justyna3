@@ -41,6 +41,8 @@
     { id: "pracownicy-samorzadowi-pdf", title: "Ustawa o pracownikach samorządowych", type: "pdf", preview: "materialy-do-nauki/miniatury/pracownicy-samorzadowi.png", file: "materialy-do-nauki/04_Ustawa_pracownicy_samorzadowi.pdf" },
     { id: "kpa-pdf", title: "Kodeks postępowania administracyjnego", type: "pdf", preview: "materialy-do-nauki/miniatury/kpa.png", file: "materialy-do-nauki/05_Kodeks_postepowania_administracyjnego.pdf" },
     { id: "uslugi-hotelarskie-plansza", title: "Usługi hotelarskie w Polsce", file: "materialy-do-nauki/Usługi_hotelarskie_w_Polsce.png" },
+    { id: "uslugi-hotelarskie-definicje", title: "Usługi hotelarskie – definicje", file: "materialy-do-nauki/Definicjie-uslugi_hotelowe.png" },
+    { id: "uslugi-hotelarskie-streszczenie", title: "Ustawa o usługach hotelarskich – streszczenie", type: "pdf", preview: "materialy-do-nauki/miniatury/uslugi-hotelarskie-streszczenie.png", file: "materialy-do-nauki/ustawa_streszczenie.pdf" },
     { id: "najem-krotkoterminowy-plansza", title: "Najem krótkoterminowy w UE", file: "materialy-do-nauki/Najem_krótkoterminowy_w_UE.png" },
     { id: "samorzad-gminny-plansza", title: "Samorząd gminny", file: "materialy-do-nauki/Samorząd_Gminny.png" },
     { id: "pracownicy-samorzadowi-plansza", title: "Pracownicy samorządowi", file: "materialy-do-nauki/Ustawa_o_pracownikach_samorządowych.png" },
@@ -743,11 +745,11 @@
     const header = createElement("header", "study-viewer-header");
     header.append(
       createElement("p", "eyebrow", "NAUKA"),
-      createElement("h1", "study-viewer-title", material.title),
-      createElement("p", "study-viewer-hint", material.type === "pdf"
-        ? "Otwórz dokument PDF, aby przeczytać tekst aktu prawnego."
-        : "Na telefonie użyj gestu powiększania, aby odczytać drobny tekst.")
+      createElement("h1", "study-viewer-title", material.title)
     );
+    if (material.type !== "pdf") {
+      header.append(createElement("p", "study-viewer-hint", "Na telefonie użyj gestu powiększania, aby odczytać drobny tekst."));
+    }
 
     panel.append(header);
     if (material.type !== "pdf") {

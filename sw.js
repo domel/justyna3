@@ -1,7 +1,7 @@
 "use strict";
 
 const CACHE_PREFIX = "justyna3-testy-z-ustaw-";
-const CACHE_NAME = `${CACHE_PREFIX}v3`;
+const CACHE_NAME = `${CACHE_PREFIX}v4`;
 const APP_FILES = [
   "./",
   "./index.html",
@@ -18,6 +18,7 @@ const APP_FILES = [
   "./materialy-do-nauki/03_Ustawa_samorzad_gminny.pdf",
   "./materialy-do-nauki/04_Ustawa_pracownicy_samorzadowi.pdf",
   "./materialy-do-nauki/05_Kodeks_postepowania_administracyjnego.pdf",
+  "./materialy-do-nauki/Definicjie-uslugi_hotelowe.png",
   "./materialy-do-nauki/KPA Podlaskie.png",
   "./materialy-do-nauki/KPA-definicje.png",
   "./materialy-do-nauki/KPA-terminy.png",
@@ -32,7 +33,9 @@ const APP_FILES = [
   "./materialy-do-nauki/miniatury/najem-krotkoterminowy.png",
   "./materialy-do-nauki/miniatury/pracownicy-samorzadowi.png",
   "./materialy-do-nauki/miniatury/samorzad-gminny.png",
+  "./materialy-do-nauki/miniatury/uslugi-hotelarskie-streszczenie.png",
   "./materialy-do-nauki/miniatury/uslugi-hotelarskie.png",
+  "./materialy-do-nauki/ustawa_streszczenie.pdf",
   "./data/pytania_uslugi_hotelarskie.csv",
   "./data/pytania_najem_krotkoterminowy.csv",
   "./data/pytania_samorzad_gminny.csv",
